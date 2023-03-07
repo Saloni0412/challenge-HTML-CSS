@@ -37,6 +37,7 @@ h1 {
 .header div ul li {
     display: inline-block;
     margin-left: 25px;
+    
 }
 
 a {
@@ -58,7 +59,7 @@ p {
     background-position: center;
 }
 
-/* below property defines the third section (content) */
+/* below property defines the main tag (content) */
 .content {
     width: 75%;
     display: inline-block;
@@ -71,7 +72,7 @@ h2 {
     font-size: 36px;
 }
 
-/* Below properties defines the images for the third section*/
+/* Below properties defines the images for the main tag */
 .float-left {
     float: left;
     margin-right: 40px;
@@ -84,8 +85,8 @@ h2 {
     max-height: 200px;
 }
  
-/* Below properties are given to the content in third section */
-.test-1 {
+/* Below properties are given to the content in main tag */
+.image-1 {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -126,6 +127,7 @@ h3 {
     max-width: 150px;
 }
 
+/* Below properties are for footer */
 .footer {
     padding: 30px;
     clear: both;
