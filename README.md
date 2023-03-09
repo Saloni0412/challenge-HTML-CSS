@@ -13,7 +13,8 @@ N/A
 This is a website for a marketing agency and they do not have accessibility features and their code base was not properly organised. The website can also be used by poeple who have vision issues, and they will have the audio option to understand the image, Moreover the contrast of the colour are organised in a way that no one should have issues with the contrast colours. This website also has keyboard accesibility, so you can toggle through different tabs using tab key. The screenshots for this website are attached below:
 
 
-![top part of page](assets/images/image-1.png) 
+![top part of page](assets/images/image-1.png)
+
 ![bottom part of page](./assets/images/image-2.png)
 
 ## Credits
