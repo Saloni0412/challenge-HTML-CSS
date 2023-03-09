@@ -14,8 +14,6 @@ This is a website for a marketing agency and they do not have accessibility feat
 
 
 ![top part of page](assets/images/image-1.png) 
-
-
 ![bottom part of page](./assets/images/image-2.png)
 
 ## Credits
